@@ -1,1 +1,1 @@
-# Project2--Amsterdam-Data-Anlytics
+# Project2--Amsterdam-Data-Analytics
